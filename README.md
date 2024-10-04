@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aliraza
-- 👀 I’m interested in programming and song composing in typescript.
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on learning typescript
-- 📫 How to reach me Github / linkedin / npmjs.com
+- 👋 Hi, I’m @alirazapoonja
+- 👀 I’m interested in programming Language and song composing in programming Language .
+- 🌱 I’m currently learning typescript, HTML, CSS, NEXTJS, REACT.
+- 💞️ I’m looking to collaborate on learning typescript, HTML, CSS, NEXTJS, REACT. 
+- 📫 How to reach me Github / linkedin / npmjs.com / vercel / facebook.
 
 
 <!---
